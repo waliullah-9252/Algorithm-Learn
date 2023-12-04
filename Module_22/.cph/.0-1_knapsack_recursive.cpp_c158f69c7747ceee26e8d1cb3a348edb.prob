@@ -1,0 +1,1 @@
+{"name":"Local: 0-1_knapsack_recursive","url":"d:\\Phitron\\Algorithm\\Module_22\\0-1_knapsack_recursive.cpp","tests":[{"id":1693802566397,"input":"4\n70 80 90 200\n20 30 40 70\n60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Algorithm\\Module_22\\0-1_knapsack_recursive.cpp","group":"local","local":true}

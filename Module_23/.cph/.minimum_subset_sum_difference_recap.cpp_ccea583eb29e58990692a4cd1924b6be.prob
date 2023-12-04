@@ -1,0 +1,1 @@
+{"name":"Local: minimum_subset_sum_difference_recap","url":"d:\\Phitron\\Algorithm\\Module_23\\minimum_subset_sum_difference_recap.cpp","tests":[{"id":1693984713315,"input":"4\n1 5 4 11","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Algorithm\\Module_23\\minimum_subset_sum_difference_recap.cpp","group":"local","local":true}

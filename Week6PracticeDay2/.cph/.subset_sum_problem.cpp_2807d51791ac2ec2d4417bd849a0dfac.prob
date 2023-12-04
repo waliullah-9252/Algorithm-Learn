@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum_problem","url":"d:\\Phitron\\Algorithm\\Week6PracticeDay2\\subset_sum_problem.cpp","tests":[{"id":1694075493473,"input":"6\n3 34 4 12 5 2\n9","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Algorithm\\Week6PracticeDay2\\subset_sum_problem.cpp","group":"local","local":true}

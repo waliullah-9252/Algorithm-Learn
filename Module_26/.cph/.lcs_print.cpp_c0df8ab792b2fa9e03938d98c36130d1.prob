@@ -1,0 +1,1 @@
+{"name":"Local: lcs_print","url":"d:\\Phitron\\Algorithm\\Module_26\\lcs_print.cpp","tests":[{"id":1694412239720,"input":"hbcfgmnapq\ncbhgrsfnmq","output":"4\nbefg"},{"id":1694417657669,"input":"PQRSTPQRS\nPRATPBRQRPS","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Algorithm\\Module_26\\lcs_print.cpp","group":"local","local":true}
